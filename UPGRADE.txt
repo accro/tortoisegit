@@ -30,8 +30,13 @@ First steps and definitions:
     version you are upgrading or updating to on the Drupal project page
     (http://drupal.org/project/drupal).
 
-UPGRADE PROBLEMS
-----------------
+	
+#alex branch:UPDATE2 test branche2s #
+# alex branch:UPGRATE change this line #
+	
+	
+	
+UPGRADE PROBLEMS----------------
 If you encounter errors during this process,
 
   * Note any error messages you see.
@@ -43,6 +48,8 @@ If you encounter errors during this process,
   * Consult one of the support options listed on http://drupal.org/support
 
 More in-depth information on upgrading can be found at http://drupal.org/upgrade
+
+#alex branch:UPDATE3#
 
 MINOR VERSION UPDATES
 ---------------------

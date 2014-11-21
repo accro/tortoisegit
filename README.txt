@@ -8,6 +8,8 @@ CONTENTS OF THIS FILE
  * Appearance
  * Developing for Drupal
 
+# modif la aussi UPDATE3 #
+ 
 ABOUT DRUPAL
 ------------
 
