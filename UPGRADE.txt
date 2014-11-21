@@ -30,7 +30,11 @@ First steps and definitions:
     version you are upgrading or updating to on the Drupal project page
     (http://drupal.org/project/drupal).
 
-UPGRADE PROBLEMS
+	
+#alex branch:UPDATE2 test branche2s #
+	
+	
+xs
 ----------------
 If you encounter errors during this process,
 
