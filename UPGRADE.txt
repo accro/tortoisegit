@@ -49,6 +49,8 @@ If you encounter errors during this process,
 
 More in-depth information on upgrading can be found at http://drupal.org/upgrade
 
+#alex branch:UPDATE3#
+
 MINOR VERSION UPDATES
 ---------------------
 To update from one minor 7.x version of Drupal to any later 7.x version, after
