@@ -31,11 +31,12 @@ First steps and definitions:
     (http://drupal.org/project/drupal).
 
 	
+#alex branch:UPDATE2 test branche2s #
 # alex branch:UPGRATE change this line #
 	
 	
-UPGRADE PROBLEMS
-----------------
+	
+UPGRADE PROBLEMS----------------
 If you encounter errors during this process,
 
   * Note any error messages you see.
