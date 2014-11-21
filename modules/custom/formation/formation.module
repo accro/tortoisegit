@@ -1,0 +1,134 @@
+<?php
+/**
+ *  Implements hook_help().
+ */
+function formation_help($path, $arg)
+{
+    switch ($path) {
+        // Main module help for the block module
+        case "admin/help#formation":
+            return '<p>' . t('Help page content') . '</p>';
+
+    }
+}
+
+/**
+ *  Implements hook_permission().
+ */
+function formation_permission()
+{
+    return array(
+        'access formation' => array(
+            'title' => t('Access formation'),
+            'description' => t('Perform the formation access.'),
+        ),
+    );
+}
+
+
+/**
+ *  Implements hook_user_login().
+ */
+function formation_user_login(&$edit, $account)
+{
+    drupal_set_message(t("Welcome cher !user !",array("!user"=>l($account->name,"user/".$account->uid))),'status');
+}
+
+
+/**
+ *  Implements hook_menu().
+ */
+function formation_menu()
+{
+    $items["page/first"] = array (
+        "title"             => "Formation",
+        "page callback"     => "page_first",
+        "access callback"   => TRUE,
+    );
+    $items["user/%user/onglet"] = array (
+        "title"             => "Formation Onglet",
+        "page callback"     => "page_first_onglet",
+        'page arguments'    => array('argument'),
+        'acces arguments'   => array(1),
+        "access callback"   => TRUE,
+        "type"              => MENU_LOCAL_TASK
+    );
+    $items["formation.rss"] = array (
+        "title"             => "Flux RSS",
+        "page callback"     => "page_flux_RSS",
+        "access callback"   => TRUE,
+    );
+    return $items;
+}
+
+
+
+/**
+ *  Pages.
+ */
+
+function page_first () {
+    return '<p>' . t("Vous êtes sur la page formation. Votre nom d'utilisateur est !user",array("!user" =>"<b>".$GLOBALS["user"]->name."</b>")) . '</p>';
+}
+
+function page_first_onglet () {
+    return '<p>' . t("Vous êtes sur la page formation Onglet. Votre nom d'utilisateur est !user",array("!user" =>"<b>".$GLOBALS["user"]->name."</b>")) . '</p>';
+}
+
+function page_flux_RSS () {
+    $data = genere_flux (array(45,321));
+    drupal_add_http_header('Content-Type','application/rss+xml; charset=utf-8');
+    print $data;
+}
+
+function genere_flux ($items)
+{
+    $data = "<root>\n";
+    /*for ($i=0;$i<count($items);$i++) {
+        $data .= "\t<item>\n";
+        $data .= "\t\t<num>$items[$i]</num>\n";
+        $data .= "\t</item>\n";
+    }*/
+    $result = db_query("SELECT nid, title FROM {node} WHERE status <> 0");
+    foreach ($result as $record) {
+        $data .= "\t<item>\n";
+        $data .= "\t\t<num>$record->title</num>\n";
+        $data .= "\t</item>\n";
+    }
+    $data .= "</root>";
+    return $data;
+}
+
+/**
+ *  Implements hook_block_info().
+ */
+function formation_block_info()
+{
+    $blocks['Welcome'] = array(
+        'info' => t('Welcome block'),
+        'cache' => DRUPAL_NO_CACHE,
+        'status' => 1,
+        'region' => "sidebar_second",
+    );
+    return $blocks;
+}
+
+/**
+ *  Implements hook_block_view().
+ */
+function formation_block_view($delta = '')
+{
+    $block = array();
+
+    switch ($delta) {
+        case 'Welcome':
+            $block['subject'] = t('Welcome');
+            $block['content'] = t("Welcome on our website. it's !hour.",array('!hour'=>date("H:i")));
+            break;
+    }
+    return $block;
+
+}
+
+
+?>

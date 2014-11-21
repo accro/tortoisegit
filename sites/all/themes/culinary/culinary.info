@@ -1,0 +1,16 @@
+name=Culinary
+decription=Theme Culinary de freecesstemplates.
+core=7.x
+version = 7.x-dev
+engine = phptemplate
+stylesheets[all][] = css/default.css
+stylesheets[all][] = css/recette.css
+regions[page_top] = Haut de page
+regions[help] = Aide
+regions[page_bottom] = Bas de page
+regions[page_top] = Haut de page
+regions[content] = Contenu
+
+regions[menu] = Menu principal
+regions[sidebar_first] = Colonne laterale
+regions[footer] = Pied de page

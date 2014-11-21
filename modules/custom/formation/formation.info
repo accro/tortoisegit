@@ -1,0 +1,9 @@
+name = Formation
+description = First Module
+version = 7.x-0.1-alpha0
+core = 7.x
+package = Example
+dependencies[] = views
+stylesheets[all] = css/formation.css
+scripts[] = js/formation.js
+

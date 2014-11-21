@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd">
+ <file original="xliff-core-1.2-strict.xsd" source-language="fr" target-language="es" datatype="plaintext" date="2014-10-04T10:10:53Z">
+  <header>
+   <phase-group>
+    <phase tool-id="tmgmt" phase-name="extraction" process-name="extraction" job-id="2"/>
+   </phase-group>
+   <tool tool-id="tmgmt" tool-name="Drupal Translation Management Tools"/>
+  </header>
+  <body>
+   <group id="14">
+    <note>page Test</note>
+    <trans-unit id="14][body][0][value" resname="14][body][0][value">
+     <source xml:lang="fr">&lt;p&gt;Page Test&lt;/p&gt;</source>
+     <target xml:lang="es"/>
+     <note>Body</note>
+    </trans-unit>
+    <trans-unit id="14][node_title" resname="14][node_title">
+     <source xml:lang="fr">page Test</source>
+     <target xml:lang="es"/>
+     <note>Title</note>
+    </trans-unit>
+   </group>
+   <group id="15">
+    <note>Bonjour le monde</note>
+    <trans-unit id="15][body][0][value" resname="15][body][0][value">
+     <source xml:lang="fr">&lt;p&gt;Il pleut aujourd'hui ! ca a changé&lt;/p&gt;</source>
+     <target xml:lang="es"/>
+     <note>Body</note>
+    </trans-unit>
+    <trans-unit id="15][node_title" resname="15][node_title">
+     <source xml:lang="fr">Bonjour le monde</source>
+     <target xml:lang="es"/>
+     <note>Title</note>
+    </trans-unit>
+   </group>
+   <group id="16">
+    <note>Poulet au curry malais</note>
+    <trans-unit id="16][body][0][value" resname="16][body][0][value">
+     <source xml:lang="fr">&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: inherit;&quot;&gt;Maintenant que l’automne est bien là, les bonnes habitues s’installent à nouveau dans ma cuisine avec ce curry de Malaisie. &lt;img alt=&quot;;-)&quot; class=&quot;wp-smiley&quot; data-lazy-loaded=&quot;true&quot; src=&quot;http://www.epicesetmoi.be/wp-includes/images/smilies/icon_wink.gif&quot; style=&quot;display: inline;&quot;&gt; Couleur, voyage, épices, parfum, et onctuosité au programme de ce mercredi.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: inherit; line-height: 17.33333396911621px;&quot;&gt;Un plat aux belles couleurs du soleil qui incite au voyage …&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: inherit; line-height: 17.33333396911621px;&quot;&gt;Un curry très parfumé au lait de coco et légèrement relevé alors que le riz apporte un peu de douceur et d’onctuosité.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: inherit; line-height: 17.33333396911621px;&quot;&gt;Poulet ou pourquoi pas du tofu pour une version plus végétarienne. &lt;img alt=&quot;;-)&quot; class=&quot;wp-smiley&quot; data-lazy-loaded=&quot;true&quot; src=&quot;http://www.epicesetmoi.be/wp-includes/images/smilies/icon_wink.gif&quot; style=&quot;display: inline;&quot;&gt; Et oui, je pense à mes copines végétariennes.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: inherit; line-height: 17.33333396911621px;&quot;&gt;Un curry bien évidemment très apprécié à notre table et qui a ravi nos petites papilles gustatives.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: inherit; line-height: 17.33333396911621px;&quot;&gt;C’est si bon les curry …&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: inherit; line-height: 17.33333396911621px;&quot;&gt;Une recette trouvée sur le site&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://gourmettraveller.com/&quot; style=&quot;font-family: inherit; line-height: 17.33333396911621px;&quot;&gt;&lt;b&gt;Gourmet Traveller&lt;/b&gt;&lt;/a&gt;&lt;span style=&quot;font-family: inherit; line-height: 17.33333396911621px;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: inherit; line-height: 17.33333396911621px;&quot;&gt;Une excellente journée à toutes &amp;amp; tous !&lt;/span&gt;&lt;/div&gt;</source>
+     <target xml:lang="es"/>
+     <note>Présentation de la recette</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][0][value" resname="16][field_ingredients][0][value">
+     <source xml:lang="fr">2 échalotes</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][1][value" resname="16][field_ingredients][1][value">
+     <source xml:lang="fr">2 gousses d’ail</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][2][value" resname="16][field_ingredients][2][value">
+     <source xml:lang="fr">1 oignon rouge frais</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][3][value" resname="16][field_ingredients][3][value">
+     <source xml:lang="fr">1 petit piment rouge</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][4][value" resname="16][field_ingredients][4][value">
+     <source xml:lang="fr">2 cm de gingembre frais haché</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][5][value" resname="16][field_ingredients][5][value">
+     <source xml:lang="fr">Les graines de 2 gousses de cardamome vertes</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][6][value" resname="16][field_ingredients][6][value">
+     <source xml:lang="fr">2 càc de curcuma en poudre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][7][value" resname="16][field_ingredients][7][value">
+     <source xml:lang="fr">4 escalopes de poulet ( ou cuisses, pilons )</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][8][value" resname="16][field_ingredients][8][value">
+     <source xml:lang="fr">400 ml de lait de coco</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][9][value" resname="16][field_ingredients][9][value">
+     <source xml:lang="fr">1 feuille de curry</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][10][value" resname="16][field_ingredients][10][value">
+     <source xml:lang="fr">1 tige de citronnelle</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][11][value" resname="16][field_ingredients][11][value">
+     <source xml:lang="fr">1 éclat de cannelle</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][12][value" resname="16][field_ingredients][12][value">
+     <source xml:lang="fr">1 étoile de badiane</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][13][value" resname="16][field_ingredients][13][value">
+     <source xml:lang="fr">1 càs de sucre de canne</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][14][value" resname="16][field_ingredients][14][value">
+     <source xml:lang="fr">1 citron vert ou jaune coupé en quartiers</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][15][value" resname="16][field_ingredients][15][value">
+     <source xml:lang="fr">Riz à la noix de coco :</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][16][value" resname="16][field_ingredients][16][value">
+     <source xml:lang="fr">400 ml de lait de coco</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][17][value" resname="16][field_ingredients][17][value">
+     <source xml:lang="fr">1 tige de citronnelle</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][18][value" resname="16][field_ingredients][18][value">
+     <source xml:lang="fr">1/2 càc de graines de cumin broyées au pilon</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][19][value" resname="16][field_ingredients][19][value">
+     <source xml:lang="fr">1/2 càc de graines de coriandre boyées au pilon ou fraîchement moulues</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][20][value" resname="16][field_ingredients][20][value">
+     <source xml:lang="fr">400 g de riz au jasmin rincé</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][21][value" resname="16][field_ingredients][21][value">
+     <source xml:lang="fr">Sel marin</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_ingredients][22][value" resname="16][field_ingredients][22][value">
+     <source xml:lang="fr">Quelques pluches de coriandre fraîche</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="16][field_etapes][0][value" resname="16][field_etapes][0][value">
+     <source xml:lang="fr">Hacher les échalotes, l’ail, le piment et le gingembre dans un robot culinaire jusqu’à ce qu’ils soient finement hachés.&#13;
+Chauffer l’huile dans une grande casserole à feu moyen-vif, ajouter le mélange de piment, remuer régulièrement pendant 2 minutes jusqu’à ce que le mélange déploie son parfum. &#13;
+</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="16][field_etapes][1][value" resname="16][field_etapes][1][value">
+     <source xml:lang="fr">Ajouter l’oignon et les épices, remuer pendant 2 minutes, ajouter les morceaux de poulet, et remuer afin  bien les enrober.&#13;
+Ajouter le lait de coco, la feuille de curry, la citronnelle, la cannelle, la badiane et 100 ml d’eau et laisser mijoter pendant une trentaine de minutes jusqu’à ce que le poulet soit tendre. &#13;
+Assaisonner avec du sucre et du sel marin selon les goûts.&#13;
+Pendant ce temps, rincer le riz sous l’eau froide 4 fois.&#13;
+Verser ensuite le lait de coco dans une casserole, ajouter la tige de citronnelle, les épices, 200 ml d’eau et le riz. Saler selon les goûts.&#13;
+Portez à ébullition en remuant de temps en temps.&#13;
+Réduire à feu doux, couvrir et cuire pendant 15 à 20 minutes jusqu’à ce que le riz ait absorbé le liquide et soit tendre.&#13;
+</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="16][field_etapes][2][value" resname="16][field_etapes][2][value">
+     <source xml:lang="fr">Retirer du feu et laisser reposer à couvert pendant 5 minutes.&#13;
+Servir parsemé de quelques pluches de coriandre avec le curry de poulet et les quartiers de citron.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="16][node_title" resname="16][node_title">
+     <source xml:lang="fr">Poulet au curry malais</source>
+     <target xml:lang="es"/>
+     <note>Titre de la recette</note>
+    </trans-unit>
+   </group>
+   <group id="17">
+    <note>Recette Gâteau 101 % de chocolat</note>
+    <trans-unit id="17][body][0][value" resname="17][body][0][value">
+     <source xml:lang="fr">&lt;p&gt;Une pure gourmandise, 100 % chocolat pour les vrais amateurs... Cela demande un peu de temps mais ça en vaut la peine !&lt;/p&gt;</source>
+     <target xml:lang="es"/>
+     <note>Présentation de la recette</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][0][value" resname="17][field_ingredients][0][value">
+     <source xml:lang="fr">Pour le biscuit au chocolat :</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][1][value" resname="17][field_ingredients][1][value">
+     <source xml:lang="fr">80 g de noix de pécan caramélisées</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][2][value" resname="17][field_ingredients][2][value">
+     <source xml:lang="fr">70 g de chocolat noir à 50%</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][3][value" resname="17][field_ingredients][3][value">
+     <source xml:lang="fr">100 g de beurre fondu</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][4][value" resname="17][field_ingredients][4][value">
+     <source xml:lang="fr">2 œufs</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][5][value" resname="17][field_ingredients][5][value">
+     <source xml:lang="fr">90 g de sucre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][6][value" resname="17][field_ingredients][6][value">
+     <source xml:lang="fr">60 g de farine</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][7][value" resname="17][field_ingredients][7][value">
+     <source xml:lang="fr">Pour la crème au chocolat :</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][8][value" resname="17][field_ingredients][8][value">
+     <source xml:lang="fr">5 dl de lait</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][9][value" resname="17][field_ingredients][9][value">
+     <source xml:lang="fr">5 dl de crème liquide</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][10][value" resname="17][field_ingredients][10][value">
+     <source xml:lang="fr">3 jaunes d’œufs (ou 2 gros)</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][11][value" resname="17][field_ingredients][11][value">
+     <source xml:lang="fr">50 g de sucre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][12][value" resname="17][field_ingredients][12][value">
+     <source xml:lang="fr">60 g de chocolat au lait</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][13][value" resname="17][field_ingredients][13][value">
+     <source xml:lang="fr">60 g de chocolat noir</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][14][value" resname="17][field_ingredients][14][value">
+     <source xml:lang="fr">1 feuille de gélatine ramollie dans l’eau</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][15][value" resname="17][field_ingredients][15][value">
+     <source xml:lang="fr">Pour la couverture :</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][16][value" resname="17][field_ingredients][16][value">
+     <source xml:lang="fr">120 g de chocolat noir grand cru à 70%</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][17][value" resname="17][field_ingredients][17][value">
+     <source xml:lang="fr">4 cl de crème liquide</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][18][value" resname="17][field_ingredients][18][value">
+     <source xml:lang="fr">6 cl de crème double</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][19][value" resname="17][field_ingredients][19][value">
+     <source xml:lang="fr">10 g de beurre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][20][value" resname="17][field_ingredients][20][value">
+     <source xml:lang="fr">40 g de sucre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][21][value" resname="17][field_ingredients][21][value">
+     <source xml:lang="fr">6 cl d’eau</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][22][value" resname="17][field_ingredients][22][value">
+     <source xml:lang="fr">Pour la déco :</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][23][value" resname="17][field_ingredients][23][value">
+     <source xml:lang="fr">Cacao en poudre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_ingredients][24][value" resname="17][field_ingredients][24][value">
+     <source xml:lang="fr">Quelques noix de pécan caramélisées</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="17][field_etapes][0][value" resname="17][field_etapes][0][value">
+     <source xml:lang="fr">Pour le biscuit : faire caraméliser les noix de pécan avec 2 cuillères à soupe de miel, laisser refroidir puis les hacher grossièrement. Faire fondre le chocolat au bain-marie. Dans un bol, fouetter les œufs avec le sucre. Ajouter le chocolat fondu et mélanger puis incorporer le beurre, les noix de pécan et la farine. Verser la préparation dans un moule à charnière de 20 cm (garni avec du papier sulfurisé). Enfourner et laisser cuire environ 15 minutes (170°C, thermostat 6, chaleur tournante si possible). Le dessus doit former une croûte mais pas l’intérieur ! Sortir du four, laisser refroidir un peu et démouler sur une grande assiette plate (en laissant le papier sulfurisé dessous). Laisser refroidir. Le biscuit restera comme ça très moelleux, même s’il ne vous semble pas cuit. Rien ne vous empêche de le cuire un peu plus si vous préférez un biscuit plus sec. </source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="17][field_etapes][1][value" resname="17][field_etapes][1][value">
+     <source xml:lang="fr">Pour la crème au chocolat : faire fondre le chocolat au bain-marie. Dans un bol, fouetter les jaunes d’œufs avec le sucre jusqu’à ce que le mélange blanchisse. Porter la crème et le lait à ébullition et verser sur le mélange puis mélanger. Remettre le tout dans la casserole et faire chauffer comme pour faire une crème anglaise. Une fois le mélange épaissi, le retirer du feu et y ajouter le chocolat fondu et la feuille de gélatine. Poser un cercle à entremets de 22 cm autour du biscuit (le mieux étant d’avoir quelque chose d’assez lourd pour que la préparation ne coule pas). Laisser refroidir la crème au frigo pendant 30 minutes (ou pour qu’elle s’épaississe déjà), puis recouvrir le biscuit avec (je mets une assiette assez lourde sur le cercle pour qu’il ne coule pas) et entreposer le tout au congélateur pour 3h. </source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="17][field_etapes][2][value" resname="17][field_etapes][2][value">
+     <source xml:lang="fr">Pour finir&#13;
+Pour la couverture : casser 70 g de chocolat en petits morceaux. Les mettre dans une casserole avec l’eau, le sucre et la crème double. Porter le tout à ébullition et mélanger pour obtenir un mélange onctueux. Retirer du feu et réserver. Râper les 50 g de chocolat restants, faire chauffer la crème liquide (ébullition) et retirer du feu. Ajouter le chocolat râpé en plusieurs fois, bien mélanger. Laisser légèrement refroidir puis ajouter le beurre coupé en petits morceaux. Ajouter ensuite la sauce au chocolat et mélanger le tout. Sortir le gâteau du congélateur et retirer le cercle. Étaler la couverture à l’aide d’une spatule souple assez rapidement car le froid la fige rapidement. Entreposer au frigo. Saupoudrer au dernier moment avec le cacao et décorer avec les noix de pécan. Déguster sans attendre ! </source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="17][node_title" resname="17][node_title">
+     <source xml:lang="fr">Recette Gâteau 101 % de chocolat</source>
+     <target xml:lang="es"/>
+     <note>Titre de la recette</note>
+    </trans-unit>
+   </group>
+   <group id="18">
+    <note>Poulet korma</note>
+    <trans-unit id="18][body][0][value" resname="18][body][0][value">
+     <source xml:lang="fr">&lt;p&gt;Voici la &lt;strong&gt;recette du poulet korma&lt;/strong&gt;, un plat très populaire, que l'on trouve fréquemment dans les restaurants indiens. C'est une recette à base de poulet avec la&lt;strong&gt; crème fraîche&lt;/strong&gt; et des &lt;strong&gt;épices&lt;/strong&gt;, que vous pouvez cuisiner à la maison.&lt;/p&gt;</source>
+     <target xml:lang="es"/>
+     <note>Présentation de la recette</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][0][value" resname="18][field_ingredients][0][value">
+     <source xml:lang="fr">4 poitrines de poulet désossées</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][1][value" resname="18][field_ingredients][1][value">
+     <source xml:lang="fr">1 gros oignon</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][2][value" resname="18][field_ingredients][2][value">
+     <source xml:lang="fr">2 càc de purée de tomates</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][3][value" resname="18][field_ingredients][3][value">
+     <source xml:lang="fr">1 càc de poudre de coriandre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][4][value" resname="18][field_ingredients][4][value">
+     <source xml:lang="fr">200ml de crème fraîche</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][5][value" resname="18][field_ingredients][5][value">
+     <source xml:lang="fr">sel</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][6][value" resname="18][field_ingredients][6][value">
+     <source xml:lang="fr">poivre noir moulu</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][7][value" resname="18][field_ingredients][7][value">
+     <source xml:lang="fr">1/2 càc de poudre de curcuma</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][8][value" resname="18][field_ingredients][8][value">
+     <source xml:lang="fr">un petit morceau de gingembre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][9][value" resname="18][field_ingredients][9][value">
+     <source xml:lang="fr">4 gousses de cardamome verte</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][10][value" resname="18][field_ingredients][10][value">
+     <source xml:lang="fr">3 gousses d'ail</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][11][value" resname="18][field_ingredients][11][value">
+     <source xml:lang="fr">50g d'amandes pilées</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][12][value" resname="18][field_ingredients][12][value">
+     <source xml:lang="fr">1/2 càc de poudre de cumin</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][13][value" resname="18][field_ingredients][13][value">
+     <source xml:lang="fr">75g amandes en poudre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][14][value" resname="18][field_ingredients][14][value">
+     <source xml:lang="fr">1/4 càc de poudre de piment</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][15][value" resname="18][field_ingredients][15][value">
+     <source xml:lang="fr">4 clous de girofle</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][16][value" resname="18][field_ingredients][16][value">
+     <source xml:lang="fr">2 càs d'huile végétale</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_ingredients][17][value" resname="18][field_ingredients][17][value">
+     <source xml:lang="fr">250ml de bouillon de poulet</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="18][field_etapes][0][value" resname="18][field_etapes][0][value">
+     <source xml:lang="fr">Couper le poulet en morceaux. Hacher l'oignon. Râper le gingembre. Ecraser la cardamome et l'ail. Faire griller les amandes pilées.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="18][field_etapes][1][value" resname="18][field_etapes][1][value">
+     <source xml:lang="fr">Faire revenir l'oignon, les clous de girofle et la cardamome dans une poêle jusqu'à ce que l'oignon commence à ramollir.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="18][field_etapes][2][value" resname="18][field_etapes][2][value">
+     <source xml:lang="fr">Ajouter l'ail, le poulet et le gingembre, mélanger et faire sauter pendant 4mn. Ajoutez toutes les épices restantes. Bien remuer pour leur permettre d'imprégner le poulet de leurs saveurs.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="18][field_etapes][3][value" resname="18][field_etapes][3][value">
+     <source xml:lang="fr">Ajouter la poudre d'amandes, la purée de tomates, le bouillon et la crème et laisser cuire jusqu'à réduction pour obtenir une crème épaisse.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="18][field_etapes][4][value" resname="18][field_etapes][4][value">
+     <source xml:lang="fr">Ajouter sur le dessus une couche d'amandes griller.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="18][node_title" resname="18][node_title">
+     <source xml:lang="fr">Poulet korma</source>
+     <target xml:lang="es"/>
+     <note>Titre de la recette</note>
+    </trans-unit>
+   </group>
+   <group id="19">
+    <note>Tartare de boeuf</note>
+    <trans-unit id="19][body][0][value" resname="19][body][0][value">
+     <source xml:lang="fr">&lt;p&gt;Tartare de boeuf au couteau. Appelé aussi steak tartare ou filet américain.&lt;/p&gt;&lt;p&gt;Le tartare de boeuf peut être présenté de deux façons : en présentant sur assiette les éléments séparément (comme sur la photo), c'est ce que j'appelle la présentation en kit ! Mais on peut aussi mélanger les ingrédients comme je vous propose de le faire ici. Vous remarquerez que le jaune d'oeuf est posé directement sur la viande et non dans sa coquille comme cela vous est montré la plupart du temps.&lt;br&gt;Temps de préparation : &lt;span class=&quot;duration&quot;&gt;15 minutes&lt;/span&gt;&lt;/p&gt;</source>
+     <target xml:lang="es"/>
+     <note>Présentation de la recette</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][0][value" resname="19][field_ingredients][0][value">
+     <source xml:lang="fr">400 à 500 g de filet de boeuf (vous pouvez également utiliser toutes les pièces de boeuf tendres) </source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][1][value" resname="19][field_ingredients][1][value">
+     <source xml:lang="fr">4 échalotes ciselées (ou oignons blancs)</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][2][value" resname="19][field_ingredients][2][value">
+     <source xml:lang="fr">4 cuillers à soupe de câpres</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][3][value" resname="19][field_ingredients][3][value">
+     <source xml:lang="fr">1/2 bouquet de persil plat</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][4][value" resname="19][field_ingredients][4][value">
+     <source xml:lang="fr">10 cornichons</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][5][value" resname="19][field_ingredients][5][value">
+     <source xml:lang="fr">4 jaunes d'oeufs</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][6][value" resname="19][field_ingredients][6][value">
+     <source xml:lang="fr">4 cuillers d'huile de tournesol</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][7][value" resname="19][field_ingredients][7][value">
+     <source xml:lang="fr">2 cuillers à soupe de worcestershire sauce</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][8][value" resname="19][field_ingredients][8][value">
+     <source xml:lang="fr"> 2 cuillers à soupe de moutarde</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][9][value" resname="19][field_ingredients][9][value">
+     <source xml:lang="fr">Quelques gouttes de tabasco</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_ingredients][10][value" resname="19][field_ingredients][10][value">
+     <source xml:lang="fr">sel et poivre du moulinl</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][0][value" resname="19][field_etapes][0][value">
+     <source xml:lang="fr">Hachez la viande au couteau.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][1][value" resname="19][field_etapes][1][value">
+     <source xml:lang="fr">Ciseler les oignons (ou échalotes). </source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][2][value" resname="19][field_etapes][2][value">
+     <source xml:lang="fr">Hachez le persil.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][3][value" resname="19][field_etapes][3][value">
+     <source xml:lang="fr">Concasser les câpres et les cornichons.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][4][value" resname="19][field_etapes][4][value">
+     <source xml:lang="fr">Clarifier les œufs (séparez les jaunes des blancs).</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][5][value" resname="19][field_etapes][5][value">
+     <source xml:lang="fr">Dans un saladier, mélanger les jaunes d'oeufs avec la moutarde ajoutez la Worcestershire sauce puis l'huile, comme pour une mayonnaise.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][6][value" resname="19][field_etapes][6][value">
+     <source xml:lang="fr">Incorporez ensuite les échalotes (ou oignons), le persil, les câpres et les cornichons avec la viande.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][7][value" resname="19][field_etapes][7][value">
+     <source xml:lang="fr">Mélanger puis assaisonner avec le sel, le poivre et le Tabasco.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][8][value" resname="19][field_etapes][8][value">
+     <source xml:lang="fr">Servir le tartare de boeuf sur assiette. Pour une présentation propre vous pouvez utiliser un cercle pour le dressage.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][field_etapes][9][value" resname="19][field_etapes][9][value">
+     <source xml:lang="fr">Accompagnement : pommes de terre frites et salade. Incontournable ! Une fois !</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="19][node_title" resname="19][node_title">
+     <source xml:lang="fr">Tartare de boeuf</source>
+     <target xml:lang="es"/>
+     <note>Titre de la recette</note>
+    </trans-unit>
+   </group>
+   <group id="20">
+    <note>Tsatsiki</note>
+    <trans-unit id="20][body][0][value" resname="20][body][0][value">
+     <source xml:lang="fr">&lt;p&gt;&lt;span id=&quot;ctl00_ContentPlaceHolder_LitRecetteResume&quot;&gt;Recette traditionnelle grecque, se sert en apéritif avec du pain.&lt;/span&gt;&lt;/p&gt;</source>
+     <target xml:lang="es"/>
+     <note>Présentation de la recette</note>
+    </trans-unit>
+    <trans-unit id="20][field_ingredients][0][value" resname="20][field_ingredients][0][value">
+     <source xml:lang="fr">2 concombres</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="20][field_ingredients][1][value" resname="20][field_ingredients][1][value">
+     <source xml:lang="fr">4 gousses d'ail</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="20][field_ingredients][2][value" resname="20][field_ingredients][2][value">
+     <source xml:lang="fr">4/5 yaourts grecs (au lait de brebis)</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="20][field_ingredients][3][value" resname="20][field_ingredients][3][value">
+     <source xml:lang="fr">3/4 cuillères à soupe d'huile d'olive</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="20][field_ingredients][4][value" resname="20][field_ingredients][4][value">
+     <source xml:lang="fr">persil</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="20][field_ingredients][5][value" resname="20][field_ingredients][5][value">
+     <source xml:lang="fr">sel, poivre</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="20][field_etapes][0][value" resname="20][field_etapes][0][value">
+     <source xml:lang="fr">Pelez les concombres et les râper.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="20][field_etapes][1][value" resname="20][field_etapes][1][value">
+     <source xml:lang="fr">Salez-les puis faites-les dégorger.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="20][field_etapes][2][value" resname="20][field_etapes][2][value">
+     <source xml:lang="fr">Mélangez les yaourts avec l'ail pressé, l'huile d'olive et le persil.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="20][field_etapes][3][value" resname="20][field_etapes][3][value">
+     <source xml:lang="fr">Ajoutez les concombres.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="20][field_etapes][4][value" resname="20][field_etapes][4][value">
+     <source xml:lang="fr">Salez et poivrez à votre convenance.</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="20][node_title" resname="20][node_title">
+     <source xml:lang="fr">Tsatsiki</source>
+     <target xml:lang="es"/>
+     <note>Titre de la recette</note>
+    </trans-unit>
+   </group>
+   <group id="21">
+    <note>DiaporaMiam</note>
+    <trans-unit id="21][body][0][value" resname="21][body][0][value">
+     <source xml:lang="fr">&lt;div&gt;Parlez-vous &lt;strong&gt;mochi&lt;/strong&gt; ?&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Glacés, ronds et colorés, &lt;strong&gt;les mochis&lt;/strong&gt; sont les futures stars de nos pauses sucrées.&lt;/div&gt;&lt;div&gt;D’origine chinoise et particulièrement populaires au Japon, ces mini gâteaux arrivent doucement mais sûrement en France.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Mais qu’est-ce que c’est au juste ?&lt;/div&gt;&lt;div&gt;Vous voyez les perles de coco, ces petites boules à la farine de riz gluant recouvertes de noix de coco ?&lt;/div&gt;&lt;div&gt;Eh bien les mochis sont en quelques sortes leurs cousins japonais… version glacée !&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Ils sont préparés à base de pâte de farine de riz gluant qui leur donne une texture bien particulière.&lt;/div&gt;&lt;div&gt;A l'intérieur, un fourrage glacé. Dans sa version traditionnelle, le mochi est fourré avec de la pâte de haricot rouge.&lt;/div&gt;&lt;div&gt;Aujourd’hui, ils sont le plus souvent garnis avec de la crème glacée.&lt;/div&gt;&lt;div&gt;On retrouve donc le moelleux et le fondant de la perle de coco tout en se rafraichissant.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Au Japon, il fait partie des desserts traditionnels, c’est un peu leur crème caramel à eux !&lt;/div&gt;&lt;div&gt;On en consomme toute l’année et tout particulièrement lors d’évènements festifs.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Si vous voyagez au Japon, vous ne serez pas non plus surpris de voir des personnes en préparer en pleine rue.&amp;nbsp;&lt;/div&gt;&lt;div&gt;La préparation traditionnelle des mochis est relativement longue et demande un peu de technique. Il faut se munir d’un gros mortier et pas mal de courage pour pétrir longuement le riz gluant.&lt;/div&gt;&lt;div&gt;Pas très vendeur vous me direz. Alors pour ceux qui souhaitent se mettre aux mochis sans s’enfermer des heures en cuisine, il existe des recettes adaptées et simplifiées.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Un peu de farine de riz gluant (que l’on trouve dans les épiceries asiatiques), de l’eau, du sucre pour fabriquer la pâte puis des sorbets aux fruits pour le fourrage et vous voilà prêt à réaliser de délicieux mochis.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Vous souhaitez en savoir plus ?&lt;/div&gt;&lt;div&gt;Suivez le guide, c’est par là !&lt;/div&gt;</source>
+     <target xml:lang="es"/>
+     <note>Présentation de la recette</note>
+    </trans-unit>
+    <trans-unit id="21][field_ingredients][0][value" resname="21][field_ingredients][0][value">
+     <source xml:lang="fr">400g de pomme de terre à chair ferme</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="21][field_ingredients][1][value" resname="21][field_ingredients][1][value">
+     <source xml:lang="fr">Env. 160g de farine blanche tamisé</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="21][field_ingredients][2][value" resname="21][field_ingredients][2][value">
+     <source xml:lang="fr">1 jaune d'oeuf</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="21][field_ingredients][3][value" resname="21][field_ingredients][3][value">
+     <source xml:lang="fr">Poivre, noix de muscade, sel</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="21][field_ingredients][4][value" resname="21][field_ingredients][4][value">
+     <source xml:lang="fr">1 mandarine</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="21][field_ingredients][5][value" resname="21][field_ingredients][5][value">
+     <source xml:lang="fr">2 oeufs</source>
+     <target xml:lang="es"/>
+     <note>Ingrédients</note>
+    </trans-unit>
+    <trans-unit id="21][field_etapes][0][value" resname="21][field_etapes][0][value">
+     <source xml:lang="fr">casser les oeuf</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="21][field_etapes][1][value" resname="21][field_etapes][1][value">
+     <source xml:lang="fr">touiller</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="21][field_etapes][2][value" resname="21][field_etapes][2][value">
+     <source xml:lang="fr">faire la bonne omelette</source>
+     <target xml:lang="es"/>
+     <note>Etapes</note>
+    </trans-unit>
+    <trans-unit id="21][node_title" resname="21][node_title">
+     <source xml:lang="fr">DiaporaMiam</source>
+     <target xml:lang="es"/>
+     <note>Titre de la recette</note>
+    </trans-unit>
+   </group>
+  </body>
+ </file>
+</xliff>
